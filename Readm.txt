@@ -1,0 +1,2 @@
+In this demo, I created a security group in Aws using terraform
+I used two files, one of the files has the varaible that later I called in the main file "vardemo.tf"
